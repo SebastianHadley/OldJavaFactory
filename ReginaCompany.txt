@@ -1,0 +1,41 @@
+Factory 
+Name Sydney
+Size M
+
+Warehouses
+
+Name WH1
+Fruit Apple
+MaxCapacity 20
+
+Name WH2
+Fruit Orange
+MaxCapacity 10
+
+Factory
+Name Melbourne
+Size L
+
+Warehouses
+
+Name WH1
+Fruit Apple
+MaxCapacity 30
+
+Name WH2
+Fruit Orange
+MaxCapacity 25
+
+Name WH3
+Fruit Pear
+MaxCapacity 20
+
+Factory
+Name Newcastle
+Size S
+
+Warehouses
+
+Name WH1
+Fruit Pear
+MaxCapacity 40
